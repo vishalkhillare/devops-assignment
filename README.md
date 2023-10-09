@@ -13,7 +13,7 @@ Tasks:
 * Create a Docker Compose file (docker-compose.yml) to orchestrate the WordPress application.
 * Include services for WordPress and the database (e.g., MySQL or MariaDB).
 * Configure network settings and dependencies between services.
-* Use environment variables or .env files to manage configuration settings securely.
+* Use environment variables to manage configuration settings securely.
 ### 3) Optimize the Database for Performance:
 * Research and implement database optimization strategies to enhance performance.
 * Consider techniques such as indexing, caching, and query optimization.
