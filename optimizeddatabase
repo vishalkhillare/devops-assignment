@@ -1,0 +1,7 @@
+## Database Optimization
+
+- Added an index on `post_title` in the `wp_posts` table to improve search query performance.
+
+- Optimized a slow query that was searching for posts by author by including the `post_status`.
+
+- Implemented Redis caching to reduce database load.
